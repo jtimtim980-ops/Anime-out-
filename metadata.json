@@ -1,0 +1,7 @@
+{
+  "name": "Anime Out - The Bullet-Proof Hero",
+  "description": "An action-packed anime game where bullets don't kill the hero—they trigger hilarious, over-the-top dramatic Anime Out awakenings, transformations, and manga cut-ins!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
